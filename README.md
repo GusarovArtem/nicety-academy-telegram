@@ -1,6 +1,7 @@
-# TODO for Academy Students and Clients:
+# Telegram Service for Nicety Academy
 
-1) notifying about done h/w
-2) notifying about new h/w
-3) notifying about entering course and it's date
-4) to be continued...
+![Nicety Academy Microservices Communication Structure](https://user-images.githubusercontent.com/105131547/221430096-46183e9d-f202-4eef-947c-b96c95e34d77.png)
+
+
+**Application Service Structure**
+![Client Service Scheme](https://user-images.githubusercontent.com/105131547/220042205-33048785-301c-4bac-ba41-fcb8cdef6baa.png)
