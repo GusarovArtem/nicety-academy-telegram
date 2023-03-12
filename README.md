@@ -1,6 +1,6 @@
 # Telegram Service for Nicety Academy
 
-![Nicety Academy Microservices Communication Structure](https://user-images.githubusercontent.com/105131547/221430096-46183e9d-f202-4eef-947c-b96c95e34d77.png)
+![Nicety Academy Microservices Communication Structure](https://user-images.githubusercontent.com/105131547/224532324-ad168746-d1a6-4218-92d9-f4329994c91e.png)
 
 
 **Application Service Structure**
